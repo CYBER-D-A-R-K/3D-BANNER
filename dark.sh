@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#code by spy
+
+#YouTube channel REDSPY TECH
+
 apt update 
 
 apt upgrade -y
