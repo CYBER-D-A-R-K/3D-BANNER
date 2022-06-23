@@ -108,9 +108,8 @@ basic
     
 am start -a android.intent.action.VIEW -d https://youtube.com/channel/UCKZ96oQF2l_2csD4rDtwY-g
  elif [[ $option == "5" ]]; then
-     echo
-     echo
-     #about
+     echo "$redTHIS TOOL USING FOR MAKE BANNER THEN TOOL MAKE BY cyber_dar and RED5PY TECH"
+     echo  "$redIF HAVE ANY DOUBT CONTACT ON WHATSAPP"
 
 elif [[ $option == "6" ]]; then
      echo
