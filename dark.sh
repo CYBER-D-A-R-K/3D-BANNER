@@ -33,19 +33,25 @@ echo -e "${red}[+]tool made making banners"
 echo -e "${red}[+]contact me on whatsapp"
 echo -e "${blue}>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
 
-echo -e "${white}[1]" "${red} 3D font"
+echo -e "${green}[1]" "${red} 3D font"
 sleep 1.0 
 echo
-echo -e "${white}[2]" "${red} Bloody"
+echo -e "${green}[2]" "${red} Bloody"
 sleep 1.0
 echo
-echo -e "${white}[3]" "${red} Basic font"
+echo -e "${green}[3]" "${red} Basic font"
 sleep 1.0
 echo
-echo -e "${white}[4]" "${red} Subscribe channel"
+echo -e "${green}[4]" "${red} Subscribe channel"
 sleep 1.0
 echo
-echo -e "${white}[5]" "${red} about this tool"
+echo -e "${green}[5]" "${red} about this tool"
+sleep 1.0
+echo
+echo -e "${green}[6]" "${red} contact"
+sleep 1.0
+echo
+echo -e "${green}[00]" "${red} exit"
 }
 
 banner
