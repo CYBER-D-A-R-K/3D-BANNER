@@ -1,8 +1,8 @@
 #!/bin/bash
 
-#code by spy
+#code by spy and cyber dark
 
-#YouTube channel REDSPY TECH
+#YouTube channel CYBER DARK
 
 apt update 
 
