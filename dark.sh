@@ -27,6 +27,11 @@ echo " "
 banner() { 
 
 figlet -f 3D.flf DARK-BAN | lolcat -t
+echo -e "${blue}>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
+echo -e "${red}[+]coded:cyber_dark"
+echo -e "${red}[+]tool made making banners"
+echo -e "${red}[+]contact me on whatsapp"
+echo -e "${blue}>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
 
 echo -e "${white}[1]" "${red} 3D font"
 sleep 1.0 
@@ -100,12 +105,22 @@ basic
 
  elif [[ $option == "4" ]]; then
      echo 
-     
+    
 am start -a android.intent.action.VIEW -d https://youtube.com/channel/UCKZ96oQF2l_2csD4rDtwY-g
  elif [[ $option == "5" ]]; then
      echo
      echo
      #about
+
+elif [[ $option == "6" ]]; then
+     echo
+
+termux-open-url http://wa.me/+1587815-0226
+
+elif [[ $option == "00" ]]; then
+     echo
+     clear
+     exit
 
 else
         echo "[*] Error, Select a option from the above list"
