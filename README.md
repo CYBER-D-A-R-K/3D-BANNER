@@ -1,10 +1,16 @@
 # 3D-BANNER
 Use <a href="https://f-droid.org/repo/com.termux_118.apk">Termux  :  Version 0.118.0</a>
 
-<img src="https://github.com/Peaky-B1inders/Others_Photos/blob/main/Ter-kali/InShot_20220622_232851063.jpg" alt="Ter Kali F1d41 ">
+src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=3D_banner+by+cyber dark"
 
-```
-pkg install git
+            alt="Typing SVG"
+
+        />
+
+    </a>
+
+</p>
+![alt text](https://imgur.com/a/dvjUkKf.png)
 ```
 
 ```
