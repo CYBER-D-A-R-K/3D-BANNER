@@ -1,7 +1,7 @@
 # 3D-BANNER
 ## <!-- Typing SVG -->
 <p align="center">
-    <a href="https://github.com/47hxl-53r">
+    <a href="https://github.com/CYBER-DARK-YT">
         <img
 src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=3D_banner+by+cyber-dark"
             alt="Typing SVG"
