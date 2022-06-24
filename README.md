@@ -9,7 +9,7 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=w3b_cr4wl+
     </a>
 </p>
 
-![alt text](https://imgur.com/a/dvjUkKf.png)
+![alt text](https://imgur.com/dvjUkKf.png)
 
 # W3B_CR4WL
 
