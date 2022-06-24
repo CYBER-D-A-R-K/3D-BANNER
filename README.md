@@ -11,24 +11,27 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=3D_banner+
 
 ![alt text](https://imgur.com/dvjUkKf.png)
 
-# W3B_CR4WL
+# 3D_BANNER TERMUX
 
 ## FEATURES
 
-* Directory enumeration
-* Port scanner
-* Subdomain finder
-* IP finder
+* 3D BANNER
+* BLODY BANNER
+* BASIC BANNER
 
 # INSTALLATION
 
-`git clone https://github.com/47hxl-53r/webcr4wl`
+`git clone https://github.com/CYBER-DARK-YT/3D-BANNER`
 
-`cd webcr4wl`
+`cd 3D-BANNER`
 
-`python3 requirements.py`
+`chmod +x *`
 
-`python3 w3bcr4wl.py`
+`./setup.sh`
+
+#AFTER
+
+`./dark.sh`
 
 
 # CONTACT
