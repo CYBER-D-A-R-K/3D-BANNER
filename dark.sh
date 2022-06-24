@@ -8,6 +8,8 @@ clear
 
 cd /data/data/com.termux/files/usr/share/figlet
 
+git clone https://github.com/RED5PY/RDS-figlet >> /dev/null 2>&1
+
 mv RDS-figlet/* /data/data/com.termux/files/usr/share/figlet&&  rm -rf RDS-figlet
 
 cd $HOME
