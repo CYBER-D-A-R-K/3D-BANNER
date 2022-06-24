@@ -1,51 +1,38 @@
-# 3D-BANNER
-Use <a href="https://f-droid.org/repo/com.termux_118.apk">Termux  :  Version 0.118.0</a>
-
-src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=3D_banner+by+cyber dark"
-
+#3D-BANNER
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://github.com/47hxl-53r">
+        <img
+src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=w3b_cr4wl+by+47hx1-53r"
             alt="Typing SVG"
-
         />
-
     </a>
-
 </p>
-![alt text](https://imgur.com/a/dvjUkKf.png)
-```
 
-```
-git clone https://github.com/CodeMyHub/Ter-Kali
-```
+![alt text](https://imgur.com/O1k2Rno.png)
 
-```
-cd Ter-Kali
-```
+# W3B_CR4WL
 
-```
-chmod +x *
-```
-```
-./Ter-Kali.c
-```
+## FEATURES
 
-```
-apt-get update
-```
+* Directory enumeration
+* Port scanner
+* Subdomain finder
+* IP finder
 
-```
-apt-get upgrade
-```
-# After 
+# INSTALLATION
 
-```
-./start-kali.sh
-```
-# Hacking
+`git clone https://github.com/47hxl-53r/webcr4wl`
 
-Hacking refers to activities that seek to compromise digital devices, such as computers, smartphones, tablets, and even entire networks. And while hacking might not always be for malicious purposes, nowadays most references to hacking, and hackers, characterize it/them as unlawful activity by cybercriminals—motivated by financial gain
+`cd webcr4wl`
 
-<img src="https://github.com/Peaky-B1inders/Others_Photos/blob/main/Ter-kali/InShot_20220623_000207156.jpg"><img src="https://github.com/Peaky-B1inders/Others_Photos/blob/main/Ter-kali/InShot_20220623_000234985.jpg">
+`python3 requirements.py`
 
-# Disclaimer
+`python3 w3bcr4wl.py`
 
-The use of the  Ter-Kali is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
+
+# CONTACT
+Click [here](https://wa.me/+918606672509) whatsapp me!
+
+# COPYRIGHT
+> DO NOT RE-CREATE THIS TOOL WITHOUT CONSENT OF THE AUTHOR OF THIS SCRIPT
