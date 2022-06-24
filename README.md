@@ -41,8 +41,9 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=3D_banner+
 
 THANKS TO :
 
-<li><a href="https://github.com/CYBER-DARK-YT">CYBER-DARK-YT</a></li>
+<li><a href="https://youtube.com/channel/UCKZ96oQF2l_2csD4rDtwY-g">CYBER-DARK-YT</a></li>
 
+<li><a href="https://youtube.com/c/REDSPYTECH">RED 5PY TECH</a></li>
 
 # CONTACT
 Click [here](https://wa.me/+1(587)815-0226) whatsapp me!
