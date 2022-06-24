@@ -1,4 +1,4 @@
-#3D-BANNER
+# 3D-BANNER
 ## <!-- Typing SVG -->
 <p align="center">
     <a href="https://github.com/47hxl-53r">
@@ -29,7 +29,7 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=3D_banner+
 
 `./setup.sh`
 
-#AFTER
+# AFTER
 
 `./dark.sh`
 
