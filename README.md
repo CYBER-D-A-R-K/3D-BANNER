@@ -21,6 +21,10 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=3D_banner+
 
 # INSTALLATION
 
+`apt update && apt upgrade`
+
+`pkg install git`
+
 `git clone https://github.com/CYBER-DARK-YT/3D-BANNER`
 
 `cd 3D-BANNER`
@@ -35,7 +39,7 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=3D_banner+
 
 
 # CONTACT
-Click [here](https://wa.me/+918606672509) whatsapp me!
+Click [here](https://wa.me/+1(587)815-0226) whatsapp me!
 
 # COPYRIGHT
 > DO NOT RE-CREATE THIS TOOL WITHOUT CONSENT OF THE AUTHOR OF THIS SCRIPT
