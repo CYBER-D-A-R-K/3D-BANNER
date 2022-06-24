@@ -9,7 +9,7 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=3D_banner+
     </a>
 </p>
 
-![alt text](20220625_024025.jpg)
+![alt text](https://imgur.com/O1k2Rno.png)
 
 # 3D_BANNER TERMUX
 
