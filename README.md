@@ -9,7 +9,7 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=3D_banner+
     </a>
 </p>
 
-<img src="20220625_024025.img">
+<img src="https://github.com/CYBER-DARK-YT/3D-BANNER/blob/Main/IMG_20220625_024025.jpg">
 
 # 3D_BANNER TERMUX
 
